@@ -10,6 +10,7 @@ from pathlib import Path
 import pickle
 import os
 
+#This is a test comment
 # Set global font settings
 API_KEY = '6c2be6da3ffa35826f19e9d9afd7d561'
 CACHE_FILE = 'tmdb_api_cache.pkl'
